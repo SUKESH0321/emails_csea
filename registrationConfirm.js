@@ -1,6 +1,6 @@
 export const registrationConfirmTemplate = (
     name,
-    kriyaId,
+    infinitumId,
     headerImg = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dio4yY3bwPx8&psig=AOvVaw3BimO4yoSIuC1KBLmx1-Q_&ust=1737710321981000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDrycXBi4sDFQAAAAAdAAAAABAH",
     footerImg = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dio4yY3bwPx8&psig=AOvVaw3BimO4yoSIuC1KBLmx1-Q_&ust=1737710321981000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDrycXBi4sDFQAAAAAdAAAAABAH"
 ) => ` <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -28,7 +28,7 @@ export const registrationConfirmTemplate = (
                                                     <a href="" target="_blank">
 
                                                         <img src="https://i.ibb.co/tpHnkWkw/EMAIL-HEADER.jpg" width="666"
-                                                            border="0" alt="Kriya 2025 Registration Cover"
+                                                            border="0" alt="infinitum 2026 Registration Cover"
                                                             style="display: block; color: #666666;  font-family: Helvetica, arial, sans-serif; font-size: 16px;"
                                                             class="img-max">
 
@@ -54,10 +54,10 @@ export const registrationConfirmTemplate = (
                                                         Hey ${name},
                                                     </b>
                                                     <p>
-                                                        Congratulations on successfully registering for Kriya 2025! We’re thrilled to have you join us. Your Kriya ID for the event is:
+                                                        Congratulations on successfully registering for Infinitum 2026! We’re thrilled to have you join us. Your Infinitum ID for the event is:
                                                     </p>
                                                     <p style="font-size: 2rem; color:#470067; font-weight: bold;">
-                                                        ${kriyaId}
+                                                        ${infinitumId}
                                                     </p>
                                                     <p>
                                                         Follow our website for the latest updates on exciting workshops
@@ -65,7 +65,7 @@ export const registrationConfirmTemplate = (
                                                     </p>
                                                     <b>Best Wishes,</b>
                                                     <p style="padding-bottom: 4rem;">
-                                                        Kriya 2025 Team<br />
+                                                        Infinitum 2026 Team<br />
                                                         PSG College of Technology
                                                     </p>
 
@@ -76,7 +76,7 @@ export const registrationConfirmTemplate = (
                                                     <a href="" target="_blank">
 
                                                         <img src="https://i.ibb.co/hkQmjsB/EMAIL-FOOTER.jpg" width="666"
-                                                            height="130" border="0" alt="Kriya 2024 Registration Cover"
+                                                            height="130" border="0" alt="Infinitum 2025 Registration Cover"
                                                             style="display: block; color: #666666;  font-family: Helvetica, arial, sans-serif; font-size: 16px;"
                                                             class="img-max">
 
@@ -108,7 +108,7 @@ export const registrationConfirmTemplate = (
                             <tr>
                                 <td align="center"
                                     style="padding: 1rem;    font-size: 12px; line-height: 18px; font-family: Helvetica, Arial, sans-serif; color:#666666;">
-                                    <span class="appleFooter" style="color:#666666;">Students Union - PSG College of
+                                    <span class="appleFooter" style="color:#666666;">CSEA Association - PSG College of
                                         Technology
                                 </td>
                             </tr>
